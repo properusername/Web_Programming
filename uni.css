@@ -184,23 +184,23 @@ button {
     position: absolute;
 }
 
-#law_school { top: 55%; left: 15%; }
-#suseon { top: 45%; left: 17%; }
-#hoam { top: 40%; left: 27%; }
-#toegye { top: 31%; left: 20%; }
-#dasan { top: 31%; left: 27%; }
-#business_school { top: 36%; left: 32%; }
+#law_school { top: 55%; left: 20%; }
+#suseon { top: 45%; left: 22%; }
+#hoam { top: 40%; left: 32%; }
+#toegye { top: 31%; left: 25%; }
+#dasan { top: 31%; left: 32%; }
+#business_school { top: 36%; left: 37%; }
 
 #law_school_label, #suseon_label, #hoam_label, #toegye_label, #dasan_label, #business_school_label {
     position: absolute;
 }
 
-#law_school_label { top: 58%; left: 16.3%; }
-#suseon_label { top: 48%; left: 19%; }
-#hoam_label { top: 43%; left: 28%; }
-#toegye_label { top: 34%; left: 21%; }
-#dasan_label { top: 34%; left: 27%; }
-#business_school_label { top: 39%; left: 33%; }
+#law_school_label { top: 58%; left: 19.5%; }
+#suseon_label { top: 48%; left: 21.5%; }
+#hoam_label { top: 43%; left: 31.5%; }
+#toegye_label { top: 34%; left: 24%; }
+#dasan_label { top: 34%; left: 31%; }
+#business_school_label { top: 39%; left: 36.5%; }
 
 #cl {
     display: flex;
