@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel = "stylesheet" href="uni.css?after">
+    <title>시간표 조회</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header>
+        <a href="index.html">
+            <h1>Class Check</h1>
+        </a>
+    </header>
+    <nav class="navbar">
+        <a href="introduce.html">사이트 소개</a>
+        <a href="timetable_warning.html">시간표 조회</a>
+        <a href="warning.html">빈 강의실</a>
+        <a href="sites.html">관련 사이트</a>
+        <a href="notice.html">공지사항</a>
+    </nav>
+    <div class="container">
+        <div class="map_img">
+            <img id="mpa" src="map.jpg">
+        </div>
+        <select id="law_school" class="dropdown">
+            <option value="">법학관</option>
+            <option value="링크1">추가예정1</option>
+            <option value="링크2">추가예정2</option>
+            <option value="링크3">추가예정3</option>
+        </select>
+        <select id="suseon" class="dropdown">
+            <option value="">수선관</option>
+            <option value="링크1">추가예정1</option>
+            <option value="링크2">추가예정2</option>
+            <option value="링크3">추가예정3</option>
+        </select>
+        <select id="hoam" class="dropdown">
+            <option value="">호암관</option>
+            <option value="링크1">50213</option>
+        </select>
+        <select id="toegye" class="dropdown">
+            <option value="">퇴계인문관</option>
+            <option value="링크1">추가예정1</option>
+            <option value="링크2">추가예정2</option>
+            <option value="링크3">추가예정3</option>
+        </select>
+        <select id="dasan" class="dropdown">
+            <option value="">다산경제관</option>
+            <option value="링크1">추가예정1</option>
+            <option value="링크2">추가예정2</option>
+            <option value="링크3">추가예정3</option>
+        </select>
+        <select id="business_school" class="dropdown">
+            <option value="">경영관</option>
+            <option value="링크1">추가예정1</option>
+            <option value="링크2">추가예정2</option>
+            <option value="링크3">추가예정3</option>
+        </select>
+        <div class="button_container">
+            <button class="button" id="left_button" onclick="window.location.href = 'timetable.html'">조회</button>
+            <button class="button" id="right_button" onclick="window.location.href = 'index.html'">뒤로</button>
+        </div>
+    </div>
+    <footer>
+        <p>Made by 2021310269 컴퓨터교육과 이강민</p>
+        <p>연락처: 010-9099-6813</p>
+        <p>E-Mail: <a href="mailto:dlrkdals6813@gmail.com">dlrkdals6813@gmail.com</a></p>
+    </footer>
+</body>
+</html>
+
+<!-- 추후에 option의 value(ex.50213)를 다음 페이지에서 활용하여
+     해당 값으로 DB에서 원하는 값들을 가져와 시간표를 출력할 수 
+     있도록 할 예정입니다. 
+     지금은 임시로 50213 강의실의 시간표로 넘어갑니다.-->

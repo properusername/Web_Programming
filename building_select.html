@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="uni.css?after">
+    <title>빈 강의실 조회</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header>
+        <a href="index.html">
+            <h1>Class Check</h1>
+        </a>
+    </header>
+    <nav class="navbar">
+        <a href="introduce.html">사이트 소개</a>
+        <a href="timetable_warning.html">시간표 조회</a>
+        <a href="warning.html">빈 강의실</a>
+        <a href="sites.html">관련 사 이트</a>
+        <a href="notice.html">공지사항</a>
+    </nav>
+    <div class="container">
+        <div class="map_img">
+            <img id="map" src="map.jpg">
+        </div>
+        <div class="radio-container">
+            <input type="radio" class="radio-button"
+            id="law_school" name="building" value="1">
+            <label id="law_school_label" for="law_school">법학관</label>
+
+            <input type="radio" class="radio-button"
+            id="suseon" name="building" value="2">
+            <label id="suseon_label" for="suseon">수선관</label>
+
+            <input type="radio" class="radio-button"
+            id="hoam" name="building" value="50">
+            <label id="hoam_label" for="hoam">호암관</label>
+
+            <input type="radio" class="radio-button"
+            id="toegye" name="building" value="4">
+            <label id="toegye_label" for="toegye">퇴계인문관</label>
+
+            <input type="radio" class="radio-button"
+            id="dasan" name="building" value="5">
+            <label id="dasan_label" for="dasan">다산경제관</label>
+
+            <input type="radio" class="radio-button"
+            id="business_school" name="building" value="6">
+            <label id="business_school_label" for="business_school">경영관</label>
+        </div>
+        <div class="button_container">
+            <button class="button" id="left_button" onclick="redirectToNextPage()">조회</button>
+            <button class="button" id="right_button" onclick="window.location.href = 'index.html'">뒤로</button>
+        </div>
+    </div>
+    <footer>
+        <p>Made by 2021310269 컴퓨터교육과 이강민</p>
+        <p>연락처: 010-9099-6813</p>
+        <p>E-Mail: <a href="mailto:dlrkdals6813@gmail.com">dlrkdals6813@gmail.com</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

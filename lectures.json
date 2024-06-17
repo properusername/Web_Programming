@@ -1,0 +1,431 @@
+[
+  {
+    "classroomNumber": "50213",
+    "schedule": {
+      "monday": [
+        {
+          "day": "monday",
+          "courseName": "인공지능융합수업설계",
+          "professor": "임경희",
+          "time": "09:00 ~ 10:15"
+        },
+        {
+          "day": "monday",
+          "courseName": "인공지능융합수업설계",
+          "professor": "임경희",
+          "time": "12:30 ~ 15:45"
+        },
+        {
+          "day": "monday",
+          "courseName": "소프트웨어응용",
+          "professor": "임태진",
+          "time": "18:00 ~ 19:15"
+        },
+        {
+          "day": "monday",
+          "courseName": "소프트웨어응용",
+          "professor": "임태진",
+          "time": "19:30 ~ 20:45"
+        }
+      ],
+      "tuesday": [
+        {
+          "day": "tuesday",
+          "courseName": "웹프로그래밍",
+          "professor": "노운정",
+          "time": "15:00 ~ 16:15"
+        },
+        {
+          "day": "tuesday",
+          "courseName": "가상및증강현실처리",
+          "professor": "전성신",
+          "time": "16:30 ~ 17:45"
+        },
+        {
+          "day": "tuesday",
+          "courseName": "데이터과학을위한 자료구조와알고리즘",
+          "professor": "한옥영",
+          "time": "19:00 ~ 21:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "day": "wednesday",
+          "courseName": "자료구조",
+          "professor": "한옥영",
+          "time": "12:00 ~ 13:15"
+        },
+        {
+          "day": "wednesday",
+          "courseName": "자료구조",
+          "professor": "한옥영",
+          "time": "13:30 ~ 14:45"
+        },
+        {
+          "day": "wednesday",
+          "courseName": "인공지능",
+          "professor": "이장원",
+          "time": "16:30 ~ 17:45"
+        },
+        {
+          "day": "wednesday",
+          "courseName": "머신러닝활용",
+          "professor": "한옥영",
+          "time": "18:00 ~ 19:15"
+        },
+        {
+          "day": "wednesday",
+          "courseName": "머신러닝활용",
+          "professor": "한옥영",
+          "time": "19:30 ~ 20:45"
+        }
+      ],
+      "thursday": [
+        {
+          "day": "thursday",
+          "courseName": "컴퓨터활용기초통계",
+          "professor": "김현철",
+          "time": "09:00 ~ 10:15"
+        },
+        {
+          "day": "thursday",
+          "courseName": "컴퓨터활용기초통계",
+          "professor": "김현철",
+          "time": "10:30 ~ 11:45"
+        },
+        {
+          "day": "thursday",
+          "courseName": "네트워크운영관리",
+          "professor": "안성진",
+          "time": "13:30 ~ 14:45"
+        },
+        {
+          "day": "thursday",
+          "courseName": "웹프로그래밍",
+          "professor": "노운정",
+          "time": "16:30 ~ 17:45"
+        },
+        {
+          "day": "thursday",
+          "courseName": "교육용소프트웨어개발",
+          "professor": "이신희",
+          "time": "19:00 ~ 19:50"
+        },
+        {
+          "day": "thursday",
+          "courseName": "교육용소프트웨어개발",
+          "professor": "이신희",
+          "time": "20:00 ~ 20:50"
+        }
+      ],
+      "friday": [
+        {
+          "day": "friday",
+          "courseName": "게임프로그래밍",
+          "professor": "오기성",
+          "time": "09:00 ~ 10:15"
+        },
+        {
+          "day": "friday",
+          "courseName": "게임프로그래밍",
+          "professor": "오기성",
+          "time": "10:30 ~ 11:45"
+        },
+        {
+          "day": "friday",
+          "courseName": "리눅스시스템",
+          "professor": "류은석",
+          "time": "12:00 ~ 13:15"
+        },
+        {
+          "day": "friday",
+          "courseName": "리눅스시스템",
+          "professor": "류은석",
+          "time": "13:30 ~ 14:45"
+        },
+        {
+          "day": "friday",
+          "courseName": "상업정보교과논리논술",
+          "professor": "임경희",
+          "time": "18:00 ~ 19:15"
+        },
+        {
+          "day": "friday",
+          "courseName": "상업정보교과논리논술",
+          "professor": "임경희",
+          "time": "19:00 ~ 19:50"
+        }
+      ]
+    }
+  },
+  {
+    "classroomNumber": "50318",
+    "schedule": {
+      "tuesday": [
+        {
+          "day": "tuesday",
+          "courseName": "영어발표",
+          "professor": "에릭피게로아",
+          "time": "13:00 ~ 14:45"
+        },
+        {
+          "day": "tuesday",
+          "courseName": "회귀분석이론과응용",
+          "professor": "박태영",
+          "time": "18:00 ~ 19:15"
+        }
+      ],
+      "thursday": [
+        {
+          "day": "thursday",
+          "courseName": "영어발표",
+          "professor": "에릭피게로아",
+          "time": "12:00 ~ 13:15"
+        }
+      ]
+    }
+  },
+  {
+    "classroomNumber": "50317",
+    "schedule": {
+      "monday": [
+        {
+          "day": "monday",
+          "courseName": "창업비즈니스사업계획",
+          "professor": "정진동",
+          "time": "09:00 ~ 09:50"
+        },
+        {
+          "day": "monday",
+          "courseName": "창업비즈니스사업계획",
+          "professor": "정진동",
+          "time": "10:00 ~ 10:50"
+        },
+        {
+          "day": "monday",
+          "courseName": "실천리더쉽",
+          "professor": "이창규",
+          "time": "11:00 ~ 11:50"
+        },
+        {
+          "day": "monday",
+          "courseName": "실천리더쉽",
+          "professor": "이창규",
+          "time": "12:00 ~ 12:50"
+        },
+        {
+          "day": "monday",
+          "courseName": "데이타베이스",
+          "professor": "김재현",
+          "time": "13:30 ~ 14:45"
+        },
+        {
+          "day": "monday",
+          "courseName": "데이타베이스",
+          "professor": "김재현",
+          "time": "16:30 ~ 17:45"
+        },
+        {
+          "day": "monday",
+          "courseName": "AI융합교육교재연구및지도법",
+          "professor": "최미애",
+          "time": "19:00 ~ 21:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "day": "tuesday",
+          "courseName": "컴퓨터교재연구및지도법",
+          "professor": "김미량",
+          "time": "09:00 ~ 10:15"
+        },
+        {
+          "day": "tuesday",
+          "courseName": "컴퓨터교재연구및지도법",
+          "professor": "김미량",
+          "time": "10:30 ~ 11:45"
+        },
+        {
+          "day": "tuesday",
+          "courseName": "네트워크운영관리",
+          "professor": "안성진",
+          "time": "12:00 ~ 13:15"
+        },
+        {
+          "day": "tuesday",
+          "courseName": "데이터통신기술",
+          "professor": "안성진",
+          "time": "13:30 ~ 14:45"
+        },
+        {
+          "day": "tuesday",
+          "courseName": "실천리더쉽",
+          "professor": "윤민향",
+          "time": "15:00 ~ 15:50"
+        },
+        {
+          "day": "tuesday",
+          "courseName": "실천리더쉽",
+          "professor": "윤민향",
+          "time": "16:00 ~ 16:50"
+        }
+      ],
+      "wednesday": [
+        {
+          "day": "wednesday",
+          "courseName": "비교교육론",
+          "professor": "고장완",
+          "time": "10:00 ~ 10:50"
+        },
+        {
+          "day": "wednesday",
+          "courseName": "비교교육론",
+          "professor": "고장완",
+          "time": "11:00 ~ 11:50"
+        },
+        {
+          "day": "wednesday",
+          "courseName": "교육과정",
+          "professor": "현성혜",
+          "time": "12:00 ~ 13:15"
+        },
+        {
+          "day": "wednesday",
+          "courseName": "프로그래밍언어론",
+          "professor": "민무홍",
+          "time": "13:30 ~ 14:45"
+        },
+        {
+          "day": "wednesday",
+          "courseName": "교육의심리학적이해",
+          "professor": "정미림",
+          "time": "15:00 ~ 15:50"
+        },
+        {
+          "day": "wednesday",
+          "courseName": "교육의심리학적이해",
+          "professor": "정미림",
+          "time": "16:00 ~ 16:50"
+        },
+        {
+          "day": "wednesday",
+          "courseName": "교육지도성",
+          "professor": "고장완",
+          "time": "19:00 ~ 19:50"
+        },
+        {
+          "day": "wednesday",
+          "courseName": "교육지도성",
+          "professor": "고장완",
+          "time": "20:00 ~ 20:50"
+        }
+      ],
+      "thursday": [
+        {
+          "day": "thursday",
+          "courseName": "인공지능과교육",
+          "professor": "김미량",
+          "time": "09:00 ~ 10:15"
+        },
+        {
+          "day": "thursday",
+          "courseName": "인공지능과교육",
+          "professor": "김미량",
+          "time": "10:30 ~ 11:45"
+        },
+        {
+          "day": "tuesday",
+          "courseName": "데이터통신기술",
+          "professor": "안성진",
+          "time": "12:00 ~ 13:15"
+        },
+        {
+          "day": "thursday",
+          "courseName": "교직실무",
+          "professor": "이선영",
+          "time": "15:00 ~ 15:50"
+        },
+        {
+          "day": "thursday",
+          "courseName": "디지털교육",
+          "professor": "안성진",
+          "time": "16:00 ~ 16:50"
+        },
+        {
+          "day": "thursday",
+          "courseName": "교직실무",
+          "professor": "이선영",
+          "time": "17:00 ~ 17:50"
+        },
+        {
+          "day": "thursday",
+          "courseName": "머신러닝과딥러닝특론",
+          "professor": "유효선",
+          "time": "19:00 ~ 21:00"
+        }
+      ],
+      "friday": [
+        {
+          "day": "friday",
+          "courseName": "고전명저북클럽",
+          "professor": "박희태",
+          "time": "10:00 ~ 10:50"
+        },
+        {
+          "day": "friday",
+          "courseName": "고전명저북클럽",
+          "professor": "박희태",
+          "time": "11:00 ~ 11:50"
+        },
+        {
+          "day": "friday",
+          "courseName": "고전명저북클럽",
+          "professor": "이선열",
+          "time": "12:00 ~ 12:50"
+        },
+        {
+          "day": "friday",
+          "courseName": "고전명저북클럽",
+          "professor": "이선열",
+          "time": "13:00 ~ 13:50"
+        },
+        {
+          "day": "friday",
+          "courseName": "고전명저북클럽",
+          "professor": "이선열",
+          "time": "14:00 ~ 14:50"
+        },
+        {
+          "day": "friday",
+          "courseName": "고전명저북클럽",
+          "professor": "이선열",
+          "time": "15:00 ~ 15:50"
+        },
+        {
+          "day": "friday",
+          "courseName": "고전명저북클럽",
+          "professor": "권영욱",
+          "time": "16:00 ~ 16:50"
+        },
+        {
+          "day": "friday",
+          "courseName": "고전명저북클럽",
+          "professor": "권영욱",
+          "time": "17:00 ~ 17:50"
+        },
+        {
+          "day": "friday",
+          "courseName": "인터넷응용세미나",
+          "professor": "오경선",
+          "time": "18:00 ~ 19:15"
+        },
+        {
+          "day": "friday",
+          "courseName": "인터넷응용세미나",
+          "professor": "오경선",
+          "time": "19:30 ~ 20:45"
+        }
+      ]
+    }
+  }
+]
