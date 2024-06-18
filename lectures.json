@@ -256,18 +256,6 @@
           "courseName": "데이터통신기술",
           "professor": "안성진",
           "time": "13:30 ~ 14:45"
-        },
-        {
-          "day": "tuesday",
-          "courseName": "실천리더쉽",
-          "professor": "윤민향",
-          "time": "15:00 ~ 15:50"
-        },
-        {
-          "day": "tuesday",
-          "courseName": "실천리더쉽",
-          "professor": "윤민향",
-          "time": "16:00 ~ 16:50"
         }
       ],
       "wednesday": [
